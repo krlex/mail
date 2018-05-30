@@ -7,6 +7,6 @@ SERVICES = consul https://github.com/mekanix/jail-consul \
 	   webmail https://github.com/mekanix/jail-webmail \
 	   web https://github.com/mekanix/jail-web \
 	   webconsul https://github.com/mekanix/jail-webconsul
-DOMAIN=server.my
+DOMAIN=krlex.me
 
 .include <${REGGAE_PATH}/mk/project.mk>
